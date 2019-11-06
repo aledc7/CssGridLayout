@@ -11,7 +11,7 @@
 # Css Grid Layout
 
 
-```js
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
